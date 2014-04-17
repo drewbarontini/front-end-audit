@@ -88,8 +88,6 @@ CSS Architecture
 - Tab List
 - Video
 
-* Needs evaluation
-
 Notes & Ideas
 -------------
 
