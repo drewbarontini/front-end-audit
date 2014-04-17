@@ -30,6 +30,8 @@
 
 > How will your CSS be structured? What modules?
 
+You can build this section out based on looking at the design or wireframes, and then update and document the modules that you actually build. This provides a place for you to evaluate your CSS structure as you build out the front-end.
+
 ## Notes & Ideas
 
 > Any and all notes or ideas.
