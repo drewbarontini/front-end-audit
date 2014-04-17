@@ -1,9 +1,8 @@
 Front-end Audit
 ===============
 
-| Site         | URL                       |
-| -----------  | ------------------------- |
-| My Cool Site | http://www.example.com    |
+- **Site**: My Cool Site
+- **URL**: http://www.example.com
 
 Browser Support
 ---------------
