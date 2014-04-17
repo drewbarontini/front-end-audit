@@ -2,8 +2,13 @@
 
 > Use this document as a basis for outlining and planning your front-end build.
 
-- **Site**: *Site Name*
-- **URL**: *http://www.example.com*
+## Info
+
+> Name, URL, additional site-specific info.
+
+| Site        | URL                    |
+| ----------- | ---------------------- |
+| Site Name   | http://www.example.com |
 
 ## Browser Support
 
@@ -16,8 +21,6 @@
 ## Tools
 
 > Any tools or libraries that you want to use.
-
-- **Tool**: *http://www.example.com*
 
 ## Icons
 
