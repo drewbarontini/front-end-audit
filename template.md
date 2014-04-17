@@ -20,7 +20,7 @@
 
 ## Tools
 
-> Any tools or libraries that you want to use.
+> Any tools or libraries that you want to use or research.
 
 ## Icons
 
