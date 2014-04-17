@@ -2,6 +2,8 @@
 
 > Use this document as a basis for outlining and planning your front-end build.
 
+You can initially fill this out *before* the build of your front-end, and then update it as you move through to have an at-a-glance list of information that you can constantly evaluate.
+
 ## Info
 
 > Name, URL, additional site-specific info.
@@ -40,6 +42,10 @@ You can build this section out based on looking at the design or wireframes, and
 
 > Any front-end issues that you need to document.
 
+Is there an issue with your CSS architecture? Is the site not performant?
+
 ## Log
 
 > Any sticking points or things that you want to log.
+
+Generally, how did you solve the issues from above. This is a great way to build a case study to retrospectively look at the problems you found and ultimately solved in your front-end build.
