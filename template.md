@@ -44,6 +44,8 @@ You can build this section out based on looking at the design or wireframes, and
 
 Is there an issue with your CSS architecture? Is the site not performant?
 
+**Note**: If your working on a team, GitHub Issues would be a suitable replacement for this section.
+
 ## Log
 
 > Any sticking points or things that you want to log.
