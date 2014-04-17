@@ -1,9 +1,6 @@
 Front-end Audit
 ===============
 
-Info
-----
-
 | Site        | URL                       |
 | ----------- | ------------------------- |
 | Code School | http://www.codeschool.com |
