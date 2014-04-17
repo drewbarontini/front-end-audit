@@ -1,9 +1,9 @@
 Front-end Audit
 ===============
 
-| Site        | URL                       |
-| ----------- | ------------------------- |
-| Code School | http://www.codeschool.com |
+| Site         | URL                       |
+| -----------  | ------------------------- |
+| My Cool Site | http://www.example.com    |
 
 Browser Support
 ---------------
@@ -18,11 +18,12 @@ Features
 --------
 
 - Responsive down to handheld
-- Layout templates (Haml)
+- Dependency management via **Bower**
 
 Tools
 -----
 
+- **Bower**: http://bower.io/
 - **Headroom.js**: http://wicky.nillia.ms/headroom.js/
 - **Iconic**: https://useiconic.com/
 
@@ -37,11 +38,8 @@ Icons
 - Share
 - External link
 - Video
-- Course
 - Close
 - Gear
-- Add member/members
-- Remove member/members
 - Check mark
 - Lock
 - Search
@@ -69,22 +67,16 @@ CSS Architecture
 
 ### Structures
 
-- Badge
-- Banner
 - Block List
 - Brand
 - Comment
-- Course
 - Header
-- Hero*
 - Icon List
 - Label
 - Label List
 - Footer
 - Memo
 - Nav
-- Path Select
-- Screencast
 - Tab List
 - Video
 
@@ -96,9 +88,10 @@ Notes & Ideas
 Issues
 ------
 
-> Any front-end issues that you need to document.
+- ~~Repeating too many HTML templates~~
+- Using too many magic numbers in the CSS
 
 Log
 ---
 
-> Any sticking points or things that you want to log.
+- Used Middleman partials and passing of dynamic variables to DRY up HTML templates
