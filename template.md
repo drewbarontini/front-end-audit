@@ -38,7 +38,7 @@ CSS Architecture
 
 > How will your CSS be structured? What modules? What framework?
 
-You can build this section out based on looking at the design or wireframes, and then update and document the modules that you actually build. This provides a place for you to evaluate your CSS structure as you build out the front-end.
+You can build this section out based on looking at the design or wireframes, and then update and document the modules that you actually build. This provides a place for you to evaluate your CSS structure as you build out the front-end. Ultimately, you should move this into a styleguide that exists alongside the project. However, this is a great way to document and evaluate your front-end structure as you go.
 
 Notes & Ideas
 -------------
