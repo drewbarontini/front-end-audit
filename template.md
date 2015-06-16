@@ -21,7 +21,7 @@ Browser Support
 Features
 --------
 
-> What specific feautures do you want? (Is the site responsive?, etc.)
+> What specific features do you want? (Is the site responsive?, etc.)
 
 Tools
 -----
